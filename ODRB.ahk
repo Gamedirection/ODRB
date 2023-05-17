@@ -74,7 +74,7 @@ if (WinActive("ahk_exe outlook.exe"))
                     }
                 }
             }
-            break  ; exit the loop if a matching window is found
+            ;break  exit the loop if a matching window is found
         }
     }
 }
